@@ -1,2 +1,3 @@
 # Text-Summarization
-a text summarization tool that help students to summarize the whole pdf. 
+A text summarization tool that help students to summarize the whole pdf. 
+Created by Shrey Shah
